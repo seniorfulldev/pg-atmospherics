@@ -1,0 +1,28 @@
+{
+  "name": "vasya/pg-atmospherics",
+  "description": "Atmospherics Composer Library",
+  "type": "library",
+  "keywords": [
+    "atmospherics",
+    "ballistics",
+    "php",
+    "pg-atmospherics"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "seniorfulldev",
+      "email": "piaoyilong114@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.3."
+  },
+  "autoload": {
+    "psr-0": {
+      "atmospherics": "src/"
+    }
+  },
+  "version": "1.0.0"
+}
