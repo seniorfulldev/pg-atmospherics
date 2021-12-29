@@ -21,8 +21,7 @@
   },
   "autoload": {
     "psr-0": {
-      "atmospherics": "src/"
+      "Atmospherics": "src/"
     }
-  },
-  "version": "1.0.0"
+  }
 }
